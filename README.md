@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Data Analyst currently learning new programming tools such as Python, Apache Spark, etc.<br>
+Currently learning new programming tools such as Python, Javascript, etc.<br>
 
 
 ## 🌐 Socials:
